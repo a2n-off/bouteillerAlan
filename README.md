@@ -17,8 +17,6 @@ I'm Alan Bouteiller <aka. Hadock>, founder of Anvil Interactive. Currently I am 
   </a>
 </p>
 
-</br>
-
 ### 💬 About me
 I'm very passionated about programation and beer; i'm also interrested about design, color, and UI/UX composition.
 
@@ -26,14 +24,10 @@ I sometimes do pixel art, logos or design. Most of the time for fun.
 
 I love retro wave style btw (look at my [website](https://alanbouteiller.dev/) 😅 )
 
-</br>
-
 ### 🛠 I work on a number of personal projects
 - [⭐ Observatory](https://github.com/bouteillerAlan/observatory)
 - [📚 Auto doc](https://github.com/bouteillerAlan/automatic-documentation)
 - [♻ and more...](https://github.com/bouteillerAlan?tab=repositories)
-
-</br>
 
 ### 🌱 I made some commit for the community
 - [Heroku CLI alis for OhMyZsh!](https://github.com/ohmyzsh/ohmyzsh/pull/9073)
