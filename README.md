@@ -18,7 +18,7 @@ I'm Alan Bouteiller <aka. Hadock>, founder of Anvil Interactive. Currently I am 
 </p>
 
 ### 💬 About me
-I'm very passionated about programation and beer; i'm also interrested about design, color, and UI/UX composition.
+I'm very passionated about programation, beer and coffee; i'm also interrested about design, color, and UI/UX composition.
 
 I sometimes do pixel art, logos or design. Most of the time for fun.
 
