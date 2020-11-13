@@ -31,6 +31,7 @@ I love retro wave style btw (look at my [website](https://alanbouteiller.dev/)ðŸ
 
 ### ðŸŒ± I made some commit for the community
 - [Heroku CLI alis for OhMyZsh!](https://github.com/ohmyzsh/ohmyzsh/pull/9073)
+- [Runcat Gnome Extension](https://github.com/win0err/gnome-runcat/pull/6)
 - [Improve doc for todo action](https://github.com/alstr/todo-to-issue-action/pull/13)
 
 <!--START_SECTION:waka-->
