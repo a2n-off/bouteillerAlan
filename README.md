@@ -2,7 +2,7 @@
 
 ## Hello there
 
-I'm Alan Bouteiller <aka. Hadock>, founder of Anvil Interactive. Currently I am tech-lead at [Helyx](https://helyx.dev/).
+I'm Alan Bouteiller <aka. Hadock>, founder of Anvil Interactive. Currently I am tech-lead at [Helyx](https://helyx.io/). Check my [website](https://alanbouteiller.dev/)🚀
 
 </br>
 <p align="center">
@@ -17,22 +17,7 @@ I'm Alan Bouteiller <aka. Hadock>, founder of Anvil Interactive. Currently I am 
   </a>
 </p>
 
-### 💬 About me
-I'm very passionated about programation, beer and coffee; i'm also interrested about design, color, and UI/UX composition.
-
-I sometimes do pixel art, logos or design. Most of the time for fun.
-
-I love retro wave style btw (look at my [website](https://alanbouteiller.dev/)🚀)
-
-### 🛠 I work on a number of personal projects
-- [⭐ Observatory](https://github.com/bouteillerAlan/observatory)
-- [📚 Auto doc](https://github.com/bouteillerAlan/automatic-documentation)
-- [♻ and more...](https://github.com/bouteillerAlan?tab=repositories)
-
-### 🌱 I made some commit for the community
-- [Heroku CLI alis for OhMyZsh!](https://github.com/ohmyzsh/ohmyzsh/pull/9073)
-- [Runcat Gnome Extension](https://github.com/win0err/gnome-runcat/pull/6)
-- [Improve doc for todo action](https://github.com/alstr/todo-to-issue-action/pull/13)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api?username=bouteillerAlan&icons=true&count_private=true&theme=synthwave&show_icons=true" />
+  <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouteillerAlan&layout=compact&theme=synthwave" />
+</p>
