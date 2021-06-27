@@ -18,6 +18,6 @@ I'm Alan Bouteiller <aka. Hadock>, founder of Anvil Interactive. Currently I am 
 </p>
 
 <p align="center">
-  <img alig src="https://github-readme-stats.vercel.app/api?username=bouteillerAlan&icons=true&count_private=true&theme=synthwave&show_icons=true" />
+<!--   <img alig src="https://github-readme-stats.vercel.app/api?username=bouteillerAlan&icons=true&count_private=true&theme=synthwave&show_icons=true" /> -->
   <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouteillerAlan&layout=compact&theme=synthwave" />
 </p>
