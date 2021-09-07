@@ -2,7 +2,7 @@
 
 ## Hello there
 
-I'm Alan Bouteiller <aka. Hadock>, founder of Anvil Interactive. Currently I am tech-lead at [Helyx](https://helyx.io/). Check my [website](https://alanbouteiller.dev/)🚀
+I'm Alan Bouteiller <aka. Hadock, A2n>, founder of Anvil Interactive. Currently I am tech-lead at [Helyx](https://helyx.io/). Check my [website](https://alanbouteiller.dev/)🚀
 
 <p align="center">
   <a href="https://twitter.com/alanbouteiller">
