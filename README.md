@@ -1,8 +1,14 @@
+<div>
+<div>
 <img align="left" src="https://github.com/bouteillerAlan/bouteillerAlan/blob/master/grevious.png" />
+</div>
+<div>
+<h2>Hello there</h2>
 
-## Hello there
-
-I'm Alan Bouteiller <aka. Hadock, A2n>, founder of Anvil Interactive. Currently I am PO at [Helyx](https://helyx.io/).
+I'm Alan Bouteiller <aka. Hadock, A2N> 👋  <br/>
+I currently code mainly for pleasure. Feel free to have a look [at my logs](https://bouteilleralan.github.io/devlog/) and my projects 🛰️
+</div>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan-bouteiller/">
