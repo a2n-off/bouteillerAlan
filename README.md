@@ -5,8 +5,9 @@
 <div>
 <h2>Hello there</h2>
 
-I'm Alan Bouteiller <aka. Hadock, A2N> 👋  <br/>
-I currently code mainly for pleasure. Feel free to have a look [at my logs](https://bouteilleralan.github.io/devlog/) and my projects 🛰️
+I'm Alan Bouteiller <aka. A2N, Hadock> 👋  <br/>
+I currently code mainly for pleasure. Feel free to have a look [at my logs & sitrep](https://bouteilleralan.github.io/devlog/) 🛰️ <br/><br/>
+If you want help with project management or development, or just chat with me : a2n.dev[at]pm.me
 </div>
 </div>
 
