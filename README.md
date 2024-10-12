@@ -5,7 +5,7 @@
 <div>
 <h2>Hello there</h2>
 
-I'm Froggy 👋<br/>
+I'm A2N 👋<br/>
 I currently code mainly for pleasure. <br/><br/>
 If you want help with project management or development, or just chat with me : a2n.dev[at]pm.me
 </div>
