@@ -5,8 +5,8 @@
 <div>
 <h2>Hello there</h2>
 
-I'm Alan Bouteiller <aka. A2N, Hadock> 👋  <br/>
-I currently code mainly for pleasure. Feel free to have a look [to my website](https://a2n.dev/) 🛰️ <br/><br/>
+I'm Froggy 👋<br/>
+I currently code mainly for pleasure. <br/><br/>
 If you want help with project management or development, or just chat with me : a2n.dev[at]pm.me
 </div>
 </div>
